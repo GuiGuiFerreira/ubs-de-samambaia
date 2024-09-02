@@ -16,14 +16,6 @@ document.addEventListener('DOMContentLoaded', () => {
         if (negativo) negativo.classList.toggle('dark');
     });
 });
-/*
-1° Add content;
-2° add videos;
-SLIDE CARROSSEL;
-Add menu dropdown horizontal;
-access monitor;
-Adicionas Imagens e descrição.
-*/
 
 function changeFontSize(action) {
     const container = document.getElementById('letras');
